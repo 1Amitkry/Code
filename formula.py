@@ -5,17 +5,7 @@
 # area and perimeter of triangle
 # volume and surface area of sphere
 # volume and surface area of cylinder
-# volume and surface area of cone
-# volume and surface area of cuboid
-# volume and surface area of cube
-# area and perimeter of square
-# area and perimeter of parallelogram
-# area and perimeter of trapezium
-# area and perimeter of rhombus
-# area and perimeter of kite
-# area and perimeter of sector
-# area and perimeter of segment
-# area and perimeter of ellipse
+
 
 
 
@@ -135,6 +125,7 @@ elif shape == "Cylinder":
             
 else:
     print("Try Again!")
+
 
 
 
